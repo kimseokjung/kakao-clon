@@ -1,2 +1,2 @@
-# kako-clon
+# kakao-clone
  
